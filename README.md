@@ -1,10 +1,12 @@
-<h3 align="center">Student</h3>
+<h3>Hello, my name is Yehor Savchuk</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yehorsk&label=Profile%20views&color=0e75b6&style=flat" alt="yehorsk" /> </p>
 
+- 🌍  I live in Nitra, Slovakia
+
 - 🌱 I’m currently learning android development **Java, Kotlin**
 
-- 📫 How to reach me **egor.crypto.sk@gmail.com**
+- 📫 You can reach me at **egor.crypto.sk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
