@@ -2,11 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yehorsk&label=Profile%20views&color=0e75b6&style=flat" alt="yehorsk" /> </p>
 
-- 🌍  I live in Nitra, Slovakia
-
 - 🌱 I’m currently learning android development **Java, Kotlin**
-
-- 📫 You can reach me at **egor.crypto.sk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
