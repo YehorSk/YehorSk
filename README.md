@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yehorsk&label=Profile%20views&color=0e75b6&style=flat" alt="yehorsk" /> </p>
 
-- 🌱 I'm currently learning Android development using **Java, Kotlin**
+- 🌱 I'm currently learning Android development using *Kotlin and Jetpack Compose**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
