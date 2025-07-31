@@ -2,7 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yehorsk&label=Profile%20views&color=0e75b6&style=flat" alt="yehorsk" /> </p>
 
-- 🌱 I'm currently learning Android development using *Kotlin and Jetpack Compose**
+- 🎓 I'm 22 years old and hold a **Bc. degree in Applied Informatics**
+- 📚 Currently pursuing a **Master’s degree** in the same field
+- 🌱 I'm learning Android development using **Kotlin and Jetpack Compose**
+- 💻 I also have experience working with **Laravel** and **Vue.js**
+-  🚀 I'm a **fast learner** who enjoys picking up new technologies and solving real-world problems
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
