@@ -6,7 +6,6 @@
 - 📚 Currently pursuing a **Master’s degree** in the same field
 - 🌱 I'm learning Android development using **Kotlin and Jetpack Compose**
 - 💻 I also have experience working with **Laravel** and **Vue.js**
--  🚀 I'm a **fast learner** who enjoys picking up new technologies and solving real-world problems
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
